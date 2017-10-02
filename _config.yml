@@ -36,6 +36,9 @@ author:
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
+# Hosting
+
+hosting: Github Pages
 
 ## !!
 ## Advanced blog settings
